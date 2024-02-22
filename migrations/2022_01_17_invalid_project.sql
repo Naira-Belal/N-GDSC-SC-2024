@@ -1,0 +1,1 @@
+ALTER TABLE "projects" ADD "invalid_project" text  NULL;
